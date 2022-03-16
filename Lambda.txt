@@ -1,0 +1,8 @@
+1. Create SNS topic and subscribe to the topic
+2. IAM Role for Lambda
+3. Cloudwatch events & SNS push nootifications
+4. Create lambda Functioon
+5. Add trigger
+
+
+Topic ARN: arn:aws:sns:us-east-1:591376077359:EC2Alerts
